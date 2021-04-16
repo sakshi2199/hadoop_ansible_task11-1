@@ -1,0 +1,6 @@
+nn_dir : "/name_node"
+dn_dir : "/datanode"
+port_no: "9001"
+
+
+
