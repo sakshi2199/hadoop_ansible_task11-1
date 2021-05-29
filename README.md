@@ -4,7 +4,7 @@
 #### *O.S. and the Softwares used:*  #### 
 - Rhel 8 Operating System
 - jdk8 software
-- Haddoop Software - Version 1.2 
+- Hadoop Software - Version 1.2 
 - Ansible Version 2.10
 
 
