@@ -2,7 +2,7 @@
 ## **Configuring Hadoop and starting cluster services using an ansible-playbook** ##
 
 #### *O.S. and the Softwares used:*  #### 
-- Rhel 8 Operating Systems
+- Rhel 8 Operating System
 - jdk8 software
 - Haddoop Software - Version 1.2 
 - Ansible Version 2.10
