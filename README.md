@@ -1,7 +1,7 @@
 # hadoop_ansible_task11-1 #
 
 
-#### *** O.S. and the Softwares used: *** ####
+#### *** O.S. and the Softwares used:  #### ***
 Rhel 8 Operating Systems
 jdk8 software
 Haddoop Software - Version 1.2 
